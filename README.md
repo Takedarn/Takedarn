@@ -1,7 +1,7 @@
 <img src="img/anime.gif">
 <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet"/>
 
-#### - Profile / わたしについて
+# - Profile / わたしについて
 
 - Name **Takdarn(a.k.a. Haruki Takeda)**
 - Live in **Nomi-city, Ishikawa-Pref, JP**
