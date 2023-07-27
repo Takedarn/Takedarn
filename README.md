@@ -10,3 +10,5 @@
 - Good with **Python**, **C++**
 - Interedted in **GameDev**, **Low-layerTech**
 - Understand **Japanese(Native)**
+
+- <a href="https://twitter.com/takedarn_n"><img src="img/orange-juice.png"><h3</h3></a>
