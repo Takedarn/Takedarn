@@ -3,7 +3,7 @@
 
 # - Profile / わたしについて
 
-- Name **Haruki Takeda(a.k.a. Takedaen)**
+- Name **Haruki Takeda(a.k.a. Takedarn)**
 - Live in **Nomi-city, Ishikawa-Pref, JP**
 - Born in **Funabashi-city, Chiba-Pref, JP**
 - Studying **Natural Language Processing**
