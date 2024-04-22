@@ -1,4 +1,4 @@
-# - こんにちは。こちらは可愛い女の子です。
+# - Hello~~~~
 <img src="img/anime.gif">
 <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet"/>
 
